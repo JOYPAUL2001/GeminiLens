@@ -35,3 +35,18 @@ User-Friendly Interface:
 Privacy and Security:
 - Ensures the security and privacy of scanned images and extracted data.
 - Optionally process data locally on the device to maintain control over sensitive information.
+
+
+## Screenshots 📱
+<p align="center">  
+  <img src="images/WhatsApp Image 2024-06-18 at 6.17.00 PM.jpeg" width="200" />
+  <img src="images/WhatsApp Image 2024-06-18 at 6.17.01 PM.jpeg" width="200" />
+</p>
+
+
+## Video 📽
+<p align = "center">
+
+https://github.com/JOYPAUL2001/GeminiLens/assets/93531836/6836d949-4979-49ea-8e1f-68435fafdee2
+
+</p>
